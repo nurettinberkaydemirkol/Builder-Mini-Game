@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: rgb(98,132,222);
+    background: linear-gradient(360deg, rgba(98,132,222,1) 0%, rgba(205,214,238,1) 100%);
+    
+}
+
+.buildScene{
+    position: relative;
+    width: 100vh;
+}
+
+.wrapper {
+    position: relative;
+    min-height: 100vh;
+}
